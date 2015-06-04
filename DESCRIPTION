@@ -1,10 +1,11 @@
 Package: geoscrapeR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Data and functions to get geospacial data.
 Version: 0.1
 Date: 2015-06-04
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Daniel Chen
+Maintainer: Daniel Chen <Maveri2k@yahoo.com>
+Description: Contains datasets useful for GIS work and provides functions to
+(re-)scrape tables.
+License: MIT
 LazyData: TRUE
